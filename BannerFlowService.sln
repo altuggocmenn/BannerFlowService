@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerFlowService", "BannerFlowService\BannerFlowService.csproj", "{6B423A89-7ADB-440B-A516-FBBA43533A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBanner", "UnitTestBanner\UnitTestBanner.csproj", "{0F82713D-770D-4F3F-8D25-DBE7AD753C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B423A89-7ADB-440B-A516-FBBA43533A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B423A89-7ADB-440B-A516-FBBA43533A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B423A89-7ADB-440B-A516-FBBA43533A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B423A89-7ADB-440B-A516-FBBA43533A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F82713D-770D-4F3F-8D25-DBE7AD753C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F82713D-770D-4F3F-8D25-DBE7AD753C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F82713D-770D-4F3F-8D25-DBE7AD753C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F82713D-770D-4F3F-8D25-DBE7AD753C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B88067D-5AF3-481E-B9F7-F185DBD843E4}
+	EndGlobalSection
+EndGlobal
